@@ -1,0 +1,13 @@
+# Streamlit
+streamlit==1.30.0
+
+# PyTorch (CPU version for HuggingFace Spaces)
+torch==2.1.0
+torchvision==0.16.0
+
+# Computer Vision (headless for servers)
+opencv-python-headless==4.8.1.78
+Pillow==10.1.0
+
+# Data Processing
+numpy==1.24.3
