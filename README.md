@@ -1022,18 +1022,16 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 ```
 
 ---
-
 <div align="center">
 
 ### ⭐ **If you find this work helpful, please consider starring the repository!** ⭐
-
 
 *"In the world of sequence modeling, sometimes the simplest gate mechanisms open the door to the best performance."*
 
 ---
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=NoobML.ucf50-action-recognition)
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/ucf50-action-recognition?style=social)](https://github.com/NoobML/ucf50-action-recognition)
-[![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/ucf50-action-recognition?style=social)](https://github.com/NoobML/ucf50-action-recognition)
+[![GitHub stars](https://img.shields.io/github/stars/NoobML/ucf50-action-recognition?style=social)](https://github.com/NoobML/ucf50-action-recognition)
+[![GitHub forks](https://img.shields.io/github/forks/NoobML/ucf50-action-recognition?style=social)](https://github.com/NoobML/ucf50-action-recognition)
 
 </div>
