@@ -794,7 +794,7 @@ ucf50-action-recognition/
 
 Experience the trained GRU model in action:
 
-👉 **[Video Action Recognition Demo on HuggingFace]([YOUR_HUGGINGFACE_SPACE_LINK](https://huggingface.co/spaces/N00bML/ucf50-action-recognition))**
+👉 **[Video Action Recognition Demo on HuggingFace](https://huggingface.co/spaces/N00bML/ucf50-action-recognition)**
 
 **Features:**
 - Upload your own videos (MP4, AVI, MOV)
